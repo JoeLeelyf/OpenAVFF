@@ -1,0 +1,13 @@
+torch==2.3.1
+torchaudio==2.3.1
+torchvision==0.18.1
+decord
+einops
+jupyter
+matplotlib
+opencv-python
+pillow
+timm==0.4.5
+tqdm
+scipy
+scikit-learn
