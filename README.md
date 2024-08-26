@@ -3,6 +3,12 @@ This is an unofficial pytorch implementation of the closed-source newly publishe
 
 <img src="img/stage1.png">
 
+## To-Do List
+- [x] Release code and model for the Inclusion:DDFV kaggle challenge
+- [ ] Follow AVFF and add adversarial losses to the final loss weights in representation learning stage.
+- [ ] Follow AVFF and adopt pretraining weight of MARLIN.
+- [ ] Try to reproduce AVFF's result on the FakeAVCeleb Dataset
+
 ## Contents
 - [Intsall](#install)
 - [Open-AVFF Weights](#open-avff-weights)
